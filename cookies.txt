@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.visitebelfort.com	TRUE	/	FALSE	1999999999	PHPSESSID	c57f090ac0179de4353b6da2b6bd74cd
+www.visitebelfort.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_2a0c38c18079bdd20a2fe0305957701d	t_4767d7a11a9e1e2f95ce95b57037fa%7C%7C1667054831%7C%7C1667051231%7C%7Cdd129420b63f896348da6bbe671910b0
+www.visitebelfort.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+www.visitebelfort.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+www.visitebelfort.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	d280346c5f143747fb992e56f78c565e
+
